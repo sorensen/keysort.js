@@ -1,0 +1,23 @@
+{
+  "name": "keysort",
+  "main": "keysort.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sorensen/keysort.js",
+  "authors": [
+    "Beau Sorensen <mail@beausorensen.com>"
+  ],
+  "description": "Sort object properties",
+  "keywords": [
+    "keysort",
+    "sorting",
+    "objects"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "Makefile",
+    "test.js",
+    "index.js",
+    "package.json"
+  ]
+}

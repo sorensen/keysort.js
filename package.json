@@ -1,0 +1,27 @@
+{
+  "name": "keysort"
+, "version": "0.0.1"
+, "license": "MIT"
+, "keywords": [
+    "keysort"
+  , "sorting"
+  , "objects"
+  ]
+, "author": "Beau Sorensen <mail@beausorensen.com> (http://github.com/sorensen)"
+, "description": "Sort object properties"
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/sorensen/keysort.js.git"
+  }
+, "engines": {
+    "node": "0.x"
+  }
+, "main": "index.js"
+, "scripts": {
+    "test": "make test"
+  }
+, "devDependencies": {
+    "mocha": "*"
+  }
+, "dependencies": {}
+}
