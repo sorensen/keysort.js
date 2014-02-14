@@ -13,7 +13,7 @@ Install
 
 With [npm](https://npmjs.org)
 
-```
+```sh
 npm install keysort-js
 ```
 
@@ -24,7 +24,7 @@ Usage
 Node.js
 
 ```js
-var keysort = require('keysort')
+var keysort = require('keysort-js')
 ```
 
 Browser
