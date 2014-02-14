@@ -5,7 +5,7 @@ Keysort
 
 [![Build Status](https://secure.travis-ci.org/sorensen/keysort.js.png)](http://travis-ci.org/sorensen/keysort.js) 
 [![devDependency Status](https://david-dm.org/sorensen/keysort.js.png)](https://david-dm.org/sorensen/keysort.js#info=dependencies)
-[![NPM version](https://badge.fury.io/js/keysort.png)](http://badge.fury.io/js/keysort)
+[![NPM version](https://badge.fury.io/js/keysort-js.png)](http://badge.fury.io/js/keysort-js)
 
 
 Install
@@ -14,7 +14,7 @@ Install
 With [npm](https://npmjs.org)
 
 ```
-npm install keysort
+npm install keysort-js
 ```
 
 
@@ -48,6 +48,10 @@ var sorted = keysort(obj)
 // , e: 3
 // }
 ```
+
+
+API
+---
 
 ### keysort(obj, [byRef], [sortMethod])
 
