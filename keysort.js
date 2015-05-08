@@ -2,7 +2,7 @@
  * (c) 2014 Beau Sorensen
  * MIT Licensed
  * For all details and documentation:
- * https://github.com/sorensen/possibles
+ * https://github.com/sorensen/keysort.js
  */
 
 ;(function() {
